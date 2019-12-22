@@ -1,1 +1,0 @@
-# ajisulist.github.io
