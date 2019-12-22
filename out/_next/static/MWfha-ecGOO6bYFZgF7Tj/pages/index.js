@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"/EDR":function(n,e,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return t("23aj")}])},"23aj":function(n,e,t){"use strict";t.r(e);var u=t("q1tI"),o=t.n(u).a.createElement;e.default=function(){return o("h1",null,"Index Page")}}},[["/EDR",0,1]]]);
